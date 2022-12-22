@@ -1,4 +1,4 @@
-This code implements four different sorting algorithms. 
+This code (in .h file) implements four different sorting algorithms. 
 
 Please use command g++ ./main.cpp in terminal for code running; ./a.out for the result show 
 
